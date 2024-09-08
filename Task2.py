@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-file_path = 'C:/Users/harse/Downloads/tested.csv'  # Update this path to your dataset location
+file_path = 'C:/Users/harse/Downloads/tested.csv'  
 data = pd.read_csv(file_path)
 
 # Set the style for seaborn
